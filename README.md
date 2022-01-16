@@ -1,2 +1,2 @@
 # Bildzitate-Michelangelo
-Ein Netzwerk der Kopien und Bildzitaten aus Michelangelos Karton der "Schlacht bei Cascina".
+Ein Netzwerkprojekt zur Rezeption von Michelangelo Buonarottis Karton der "Schlacht bei Cascina".
