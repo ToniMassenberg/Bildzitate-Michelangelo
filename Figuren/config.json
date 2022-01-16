@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Toni Massenberg"
+  },
+  "text": {
+    "more": "Hier repräsentieren die Nodes die Kopien  und die Figuren der Cascina-Schlacht. Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an der Modularity Class, also den errechneten nächsten Nachbarn, wodurch sich kleinere Netzwerke der am häufigsten zusammen vorkommenden Figuren bilden.",
+    "intro": "Dieser Graph zeigt, in welchen Bildern, die Figuren der Cascinaschlacht rezipieren, welche Figuren verwendet wurden.",
+    "title": "Figuren in der Cascina-Rezeption"
+  },
+  "legend": {
+    "edgeLabel": "Figuren in Bildern",
+    "colorLabel": "Modularity Class (Nachbarschaft)",
+    "nodeLabel": "Bilder / Figuren"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "file"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
