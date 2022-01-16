@@ -8,9 +8,9 @@
     "text": "Toni Massenberg"
   },
   "text": {
-    "more": "In diesem Netzwerk repräsentieren die Nodes verschiedene Bilder, in denen Figuren aus Michelangelo Buonarottis „Schlacht bei Cascina“ rezipiert wurden.  Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an den Künstlern. Werke desselben Künstlers haben also dieselbe Farbe.",
+    "more": "In diesem Netzwerk repräsentieren die Nodes eine Auswahl der Bilder, in denen Figuren aus Michelangelo Buonarottis „Schlacht bei Cascina“ rezipiert wurden.  Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an den Künstlern. Werke desselben Künstlers haben also dieselbe Farbe.",
     "intro": "Ein Netzwerk der Verhältnisse zwischen Rezeptionen der Figuren von Michelangelos \"Schlacht bei Cascina\".  ",
-    "title": "Stammbaum-Cascina"
+    "title": "Stammbaum Cascina-Rezeption"
   },
   "legend": {
     "edgeLabel": "Referenzverhältnis",
