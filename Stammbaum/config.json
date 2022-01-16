@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Toni Massenberg"
+  },
+  "text": {
+    "more": "In diesem Netzwerk repräsentieren die Nodes verschiedene Bilder, in denen Figuren aus Michelangelo Buonarottis „Schlacht bei Cascina“ rezipiert wurden.  Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an den Künstlern. Werke desselben Künstlers haben also dieselbe Farbe.",
+    "intro": "Ein Netzwerk der Verhältnisse zwischen Rezeptionen der Figuren von Michelangelos \"Schlacht bei Cascina\".  ",
+    "title": "Stammbaum-Cascina"
+  },
+  "legend": {
+    "edgeLabel": "Referenzverhältnis",
+    "colorLabel": "Künstler",
+    "nodeLabel": "Bilder"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "modularity_class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "file"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
