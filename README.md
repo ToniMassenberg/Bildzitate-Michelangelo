@@ -1,8 +1,10 @@
 ## Bildzitate Michelangelo
-###Ein Netzwerkprojekt zur Rezeption von Michelangelos Cascinaschlacht.
+### Ein Netzwerkprojekt zur Rezeption von Michelangelos Cascinaschlacht.
 
 [Netzwerk Figuren](https://tonimassenberg.github.io/Bildzitate-Michelangelo/Figuren/)
+
 [Netzwerk Stammbaum](https://tonimassenberg.github.io/Bildzitate-Michelangelo/Stammbaum/)
+
 
 ![Die berühmteste Kopie](https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MtYnMqbV476dJdzsiIy?alt=media&token=309f5510-bdd2-43b2-a9b0-db5e2762b5ef)
 
