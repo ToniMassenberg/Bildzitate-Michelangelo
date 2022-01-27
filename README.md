@@ -1,5 +1,4 @@
-## Bildzitate Michelangelo
-### Ein Netzwerkprojekt zur Rezeption von Michelangelos Cascinaschlacht.
+
 
 [Netzwerk Figuren](https://tonimassenberg.github.io/Bildzitate-Michelangelo/Figuren/)
 
