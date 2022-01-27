@@ -3,8 +3,8 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSHplZSWmC4pXiaSqQ?alt=media&token=1a9ad597-4cad-481c-9f2b-459c9569576a",
-    "link": "",
+    "file": "",
+    "link": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSHplZSWmC4pXiaSqQ?alt=media&token=1a9ad597-4cad-481c-9f2b-459c9569576a",
     "text": "Toni Massenberg"
   },
   "text": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 1.5,
+      "minEdgeSize": 1.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
