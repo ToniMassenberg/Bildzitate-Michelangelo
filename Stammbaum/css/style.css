@@ -69,7 +69,10 @@ canvas#sigma_bg_1 {
 	padding: 0px 18px 0px 18px;	
 	z-index: 1;
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 #attributepane .text {
 	height:100%;
