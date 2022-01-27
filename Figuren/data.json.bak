@@ -96,6 +96,7 @@
       "y": -535.3897094726562,
       "id": "55",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiXQG0i6cm9SViH?alt=media&token=28e4ea01-91b9-4006-aab9-9c5075307d1f
         "Modularity Class": "4",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.341837",
@@ -133,6 +134,7 @@
       "y": -201.6600341796875,
       "id": "44",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiZ5B24A7-uZ9hs?alt=media&token=d48fc16b-1c91-4bce-92b1-fb2903d84dd0
         "Modularity Class": "1",
         "Eccentricity": "3.0",
         "Closeness Centrality": "0.403614",
@@ -194,6 +196,7 @@
       "y": -104.07171630859375,
       "id": "30",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQi_OQy28Gmz2b4v?alt=media&token=00e90ecb-8df4-47f7-b9e4-6dec596b52fd
         "Modularity Class": "1",
         "Eccentricity": "3.0",
         "Closeness Centrality": "0.429487",
@@ -231,6 +234,7 @@
       "y": -545.4711303710938,
       "id": "34",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiWJsRSnelbUJHF?alt=media&token=2ca2f195-3001-41c6-90e5-bf1f1bde1788
         "Modularity Class": "0",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.352632",
@@ -403,6 +407,7 @@
       "y": -225.73748779296875,
       "id": "42",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiYfP9lOBvHqxOM?alt=media&token=5e728733-255f-40ef-8382-72e1fd0bbb3a
         "Modularity Class": "3",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.348958",
@@ -547,26 +552,12 @@
       "size": 10
     },
     {
-      "label": "n",
-      "x": -267.9161376953125,
-      "y": -577.4987182617188,
-      "id": "56",
-      "attributes": {
-        "Modularity Class": "4",
-        "Eccentricity": "5.0",
-        "Closeness Centrality": "0.341837",
-        "Betweenness Centrality": "0.674603",
-        "Harmonic Closeness Centrality": "0.407711"
-      },
-      "color": "rgb(166,235,254)",
-      "size": 10.036371231079102
-    },
-    {
       "label": "a",
       "x": -47.037818908691406,
       "y": -603.2977294921875,
       "id": "52",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQi_OQy28Gmz2b4z?alt=media&token=0c13b84a-9f39-4944-bd8e-77bb4361a3f3
         "Modularity Class": "4",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.338384",
@@ -605,6 +596,7 @@
       "y": -88.69793701171875,
       "id": "31",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQi_OQy28Gmz2b4w?alt=media&token=e9e52311-b3f9-41b4-8607-c0f09bffa23a
         "Modularity Class": "3",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.356383",
@@ -642,6 +634,7 @@
       "y": -164.60040283203125,
       "id": "20",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiXQG0i6cm9SViJ?alt=media&token=50c80cad-ae95-467f-a433-ccd6366d3c25
         "Modularity Class": "3",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.356383",
@@ -763,6 +756,7 @@
       "y": -430.27142333984375,
       "id": "49",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiVgFjZmEgJfVd4?alt=media&token=424a81ca-741e-4d65-9e16-9c4470b1251a
         "Modularity Class": "4",
         "Eccentricity": "5.0",
         "Closeness Centrality": "0.345361",
@@ -778,6 +772,7 @@
       "y": -315.4617919921875,
       "id": "1",
       "attributes": {
+		"file": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSlQiaWBLCVk7XZZXu?alt=media&token=dabc189c-f88d-4ff6-8331-44c55d5503d4
         "Modularity Class": "1",
         "Eccentricity": "3.0",
         "Closeness Centrality": "0.435065",
@@ -1584,7 +1579,7 @@
       "target": "17",
       "id": "181",
       "attributes": {},
-      "color": "rgb(0,0,0)",
+      "color": "rgb(177,207,83)",
       "size": 1
     },
     {
