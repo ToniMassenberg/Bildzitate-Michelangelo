@@ -4,7 +4,7 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MuSHplZSWmC4pXiaSqQ?alt=media&token=1a9ad597-4cad-481c-9f2b-459c9569576a",
+    "link": "",
     "text": "Toni Massenberg"
   },
   "text": {
@@ -28,20 +28,20 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "straight",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 1,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 1.5,
-      "minEdgeSize": 1.2,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },

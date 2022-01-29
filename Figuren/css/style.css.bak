@@ -24,7 +24,6 @@ html,body {
 	font-size: 12px;
 	font-family: sans-serif;
 	line-height:1.25em;
-	background-color: #696969
 }
 
 .sigma-parent {
@@ -61,7 +60,7 @@ canvas#sigma_bg_1 {
     bottom:0;
     top:0;
     right:0;
-	width: 340px;
+	width: 240px;
 	background-color: #fff;
 	margin: 0;
 	word-wrap: break-word;
@@ -70,10 +69,7 @@ canvas#sigma_bg_1 {
 	padding: 0px 18px 0px 18px;	
 	z-index: 1;
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
+
 
 #attributepane .text {
 	height:100%;
