@@ -1,44 +1,68 @@
-
-
+## Die Netzwerke
+Ein Netzwerk der Figuren der Cascinaschlacht und der Bilder, in denen sie vorkommen:
 [Netzwerk Figuren](https://tonimassenberg.github.io/Rezeption-Michelangelo/Figuren/)
 
+Ein Stammbaum der Michelangelorezeption:
 [Netzwerk Stammbaum](https://tonimassenberg.github.io/Rezeption-Michelangelo/Stammbaum/)
 
 
+
+## Die Cascinaschlacht
+Schlachtenbilder haben eine lange Tradition, ob es sich dabei um mythologische Sujets handelt oder um Herrscherporträts, ob zu Repräsentations- oder Dokumentationszwecken. Einige dieser Bilder stechen für die Zeitgenossen als auch für den heutigen Betrachter durch ihre Einzigartigkeit in Darstellung oder Dargestelltem heraus. Ein Beispiel für eine ungewöhnliche Behandlung des Genres bietet Michelangelos Schlacht bei Cascina. Sie entstand 1504, wurde nie wie geplant als Fresko ausgeführt und ist nur in Kopien erhalten. Das vorliegende Projekt stellt die überlieferten Beispiele der Rezeption der Schlacht bei Cascina zusammen und setzt sie in verschiedenen Netzwerkgraphen in Zusammenhang.
+Bei der Schlacht von Cascina handelt es sich um einen Karton, den Michelangelo Buonarotti (1475-1564) 1504-1505 in Florenz anfertigte. Das Fresko war für den Sala dei Cinquecento im Palazzo Vecchio vorgesehen, wurde aber nie ausgeführt. Der Karton wurde vermutlich 1515 zerstört, er liegt heute nur in Kopien vor.[^1] Dei Grundlage der folgenden Beschreibung bietet eine Kopie von Bastiano (Aristotile) da Sangallo (ca. 1541), die heute in Holkham Hall in Norfolk aufbewahrt wird. Es ist ein Ölbild von 77 x 130 cm Größe und basiert auf Zeichnungen, die Sangallo nach dem Original angefertigt hatte. Es wird vermutet, dass Michelangelos Karton größer war, genaue Maße sind nicht überliefert.
+
 ![Die berühmteste Kopie](https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MtYnMqbV476dJdzsiIy?alt=media&token=309f5510-bdd2-43b2-a9b0-db5e2762b5ef)
+_Abb.1: Sangallo, Bastiano (Aristotile): Die Schlacht bei Cascina nach Michelangelo. Ca. 1541; Öl auf Holz; 77x130cm; Holkham Hall, Leicester Collection. Abb. nach: http://prometheus.uni-koeln.de/pandora/image/show/artemis-808de58240adac762d9613493271eab850f3b5e3 (06.02.22)._
 
-You can use the [editor on GitHub](https://github.com/ToniMassenberg/Bildzitate-Michelangelo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Die italienische Stadt Cascina liegt in der Toskana, gehört zu Pisa und liegt am Fluss Arno, der in Michelangelos Historie im Vordergrund dargestellt ist. Von der Schlacht 1364 ist legendenhaft überliefert, die florentinischen Soldaten seien statt wachsam einen Angriff zu erwarten im Arno baden gegangen, aber von einem Angriff der Armee Pisas überrascht worden. In aller Eile mussten die Badenden zu den Waffen stürzen und sich verteidigen; die Schlacht endete mit einem florentinischen Sieg. Dieser Moment der Überraschung und des Aufbruches hat Michelangelo dargestellt.
+Sangallos Kopie von Michelangelos Karton der Cascinaschlacht zeigt eine Gruppe von 20 Männern verschiedenen Alters. Die Komposition ist asymmetrisch und keine der Figuren steht im Mittelpunkt oder ist besonders betont. Die Männer sind grob in drei Reihen aufgeteilt: liegende, sitzende und aus dem Wasser steigende Männer vorne, sich Bückende oder Gehende in der Mitte und stehenden Figuren hinten, doch wird diese Ordnung durch ihre Bewegungen an mehreren Stellen aufgelöst. Sie sind alle innerhalb einer Bewegung festgehalten, die Körper sind angespannt, drehen und wenden sich, die Tücher und Haare flattern im Wind. Nach links wird die Gruppe von einem aus dem Wasser kletternden Mann, der sich nach links wendet, begrenzt; am rechten Rand wenden sich die Figuren nach rechts, auf imaginäre weitere Szenen verweisend. Es ist kein Hintergrund ausgeführt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hintergründe der Entstehung
+Den Auftrag für das Fresko der Schlacht von Cascina erhielt Michelangelo Ende 1504. Florenz hatte gerade die Familie der Medici als Herrscher abgesetzt und die Signoria, eine demokratische Regierung, gegründet. Diese tagte im Palazzo Vecchio, der zu diesem Zweck neu mit Wandgemälden ausgestattet werden sollte. Der damalige Gonfaloniere Piero Soderini beauftragte Michelangelo und Leonardo da Vinci mit jeweils einem Fresko, die einander im Saal gegenüberliegen sollten.[^2] Als Thema vorgegeben wurden Illustrationen von historischen Siegen des Stadtstaaten Florenz, die „wichtige Ereignisse der Florentiner Geschichte vergegenwärtigen und zugleich die Bühne für einen programmatischen Künstlerwettstreit bereiten“[^3] sollten, bei dem der berühmte universalgelehrte Leonardo gegen den 20 Jahre jüngeren Michelangelo antrat, der mit der Pietá in St. Peter in Rom und dem David in Florenz gerade zu hoher Bekanntheit und Popularität gekommen war.[^4]
+Leonardo begann vermutlich zuerst mit seinem Fresko, der Schlacht von Anghiari, da er den Auftrag früher erhalten hatte. Beide Künstler waren nach längerer Abwesenheit gerade in ihre Heimatstadt Florenz zurückgekehrt, Michelangelo aus Rom. Sie beendeten die Kartons für das geplante Fresko, aber ausgeführt wurde keines von beiden. Leonardo begann sein Fresko, gab es aber auf, da seine experimentelle Freskiertechnik nicht die gewünschten Ergebnisse brachte, und Michelangelo beließ es bei der Fertigstellung des Kartons. Vermutlich wurde er zur selben Zeit von Papst Julius II. nach Rom geholt, wo er das Grabmal des Papstes planen und ausführen sollte, dann aber 1508 die Ausmalung der Sixtinischen Kapelle begann. Cecil Gould, ein englischer Kunsthistoriker des 20. Jahrhunderts, spekulierte auch, dass beide Künstler den künstlerischen Teil des Auftrages mit dem Karton bzw. dem Versuch des Freskos für beendet hielten und ihnen die Übertragung auf die Wand langweilig und routiniert erschienen sei, was ihnen die Motivation zum Beenden des Auftrages nahm – es genüge ihnen, den Teil zu beenden, der die Kunst revolutionieren würde.[^5] Gould vermutete außerdem, dass die Badeszene lediglich eine von drei Gruppen gewesen sein könnte, wobei die beiden anderen die florentinische Kavallerie und die Infanterie Pisas wären; in dem Fall würde die Komposition ähnlich sein wie in Michelangelos nächstem freskierten Werk mit vielen Figuren, der Sintflutszene an der Decke der Sixtinischen Kapelle in Rom, die er ab 1508 malen sollte.[^6]
+Die Besonderheit der Cascinaschlacht wird besonders im direkten Vergleich mit Leonardos Anghiarischlacht sichtbar. Dieses Fresko (geplant und begonnen 1504 - 1506), das eine Schlacht zwischen Florenz und Mailand zeigen sollte, die 1440 stattfand, sowie der dazugehörige Karton sind ebenfalls nicht erhalten; auch hier existieren lediglich Kopien, und auch das nur von einer Szene des Bildes, dem Kampf um die Standarte. Dies ist vermutlich der Teil, den Leonardo schon zu freskieren begonnen hatte. Die berühmteste Kopie wird traditionell Peter Paul Rubens zugeschrieben und befindet sich heute im Louvre.[^7] 
 
-### Markdown
+Sie zeigt vier Männer auf drei Pferden sowie drei Männer am Boden, die in einem dichten Gerangel um eine nur angedeutete Fahnenstange und umeinander gedrängt sind. In vielerlei Hinsicht lässt dieses Bild sich kaum mit der Cascinaschlacht vergleichen: Leonardo wählte eine Reiterschlacht, um nicht nur Männer, sondern auch Pferde darstellen zu können, für die er berühmt war;[^8] seine Figuren sind bekleidet, und zwar in prunkvollen, fantastisch anmutenden Rüstungen, und das Bild strotzt nur so von Bewegung und Atmosphäre. 
+Die nackten, nur teilweise bewegten, für sich einzeln posierenden Männer der Cascinaschlacht erzielen eine andere Wirkung. Eine Ähnlichkeit findet sich lediglich in dem fehlende Raum zwischen den Figuren – obwohl sie so ordentlich aufgeräumt erscheinen, könnte sowohl in der Cascina- als auch der Anghiarischlacht kaum eine Figur ihre Position ändern, ohne die anderen wegbewegen zu müssen – und in ihrer hohen Individualisierung. Und natürlich stellen beide Schlachten der Florentiner Geschichte dar. Dennoch: Leonardo malte Bewegung, Michelangelo malte Körper. 
+Diese Ansicht scheint sich in der Rezeption zu spiegeln: Viele der großen Tableaus von Michelangelos Hand – also die Cascina- und die Kentaurenschlacht (1492) sowie das Jüngste Gericht (1541) – wurden nicht als Vorlagen für Darstellungen der entsprechenden Szenen rezipiert, sondern so, dass sie „vielmehr ein Pantheon exemplarischer Aktfiguren lieferten.“[^9] 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rezeption – Ein Vorbild für Jahrhunderte
+Schon direkt nach ihrer Entstehung begann die lange Wirkungsgeschichte der Cascinaschlacht. In den gerade mal zehn Jahren seiner Existenz wurde der Karton vielfach kopiert, unter anderem von dem Kupferstecher Marcantonio Raimondi, der das neue Medium nutzte, um Teile des Kartons zu vervielfältigen,[^10] was einen frühen Ruhm des Werkes begründete. Auch Sangallo kopierte das Original in Zeichnungen direkt. Diese Kopien dienten für lange Zeit Künstlern als Vorlage, die Michelangelos Werk zum Vorbild nahmen. Das Kopieren der großen Meister gehörte bis ins 19. Jahrhundert fest zur Ausbildung eines Künstlers, die Cascinaschlacht war dafür eine häufige Vorlage.[^11]
+Einerseits wollten und wollen generell Künstler von dem Vorbild und den Erfahrungen anderer Künstler profitieren, indem sie aus ihren Bildern lernen; insbesondere von einem Künstler, der über Jahrhunderte hinweg als einer der größten Maler und Bildhauer der Weltgeschichte gilt. In diesem Fall kopierten Künstler den Karton häufig, „um von den unerhörten Neuerungen in der affektbetonten Darstellung bewegter Akte zu profitieren“.[^12] Da Michelangelo ein Bild geschaffen hatte, das neue Darstellungsweisen nutzte und die Menschen anders darstellte als  man es vor ihm getan hatten, kopierte man das Bild, um diese Darstellungsart selbst übernehmen zu können. Mancher Auffassung nach war es gerade Michelangelos Art, in Zeichnung und Gemälden sein Verständnis der Figuren aus der Bildhauerei einfließen zu lassen, die eine besondere Faszination einer tieferen Körperlichkeit und Plastizität ausmacht und weitreichende Konsequenzen für die italienische Kunst des 16. Jahrhunderts hatte.[^13] Vasari behauptet, dass alle Personen, die die Cascinaschlacht nach Michelangelos Karton kopierten, zu herausragenden Künstlern wurden.[^14]
+Andererseits eignet sich die Cascinaschlacht hervorragend zum Kopieren, weil sich auch einzelne Figuren separat darstellen lassen. Schaut man sich in der Zeichnung die einzelnen Figuren an, merkt man schnell, dass sie nur wenig miteinander interagieren. Kaum zwei von ihnen haben Augenkontakt, berühren oder unterhalten sich. Außerdem sind einige der Figuren so im Bild platziert, dass keine Stelle ihres Körpers von etwas Anderem als sich selbst oder ihrer Kleidung verdeckt wird. Diese Figuren können völlig separat von den anderen betrachtet werden, da sie vollständig dargestellt sind und ohne ihren Kontext betrachtet werden können. So schufen sowohl Marcantonio Raimondi als auch Agostino Veneziano schon zu Beginn des 16. Jahrhunderts Stiche mit ebenjenen Cascina-Figuren, sowohl einzeln als auch in verschiedenen Kombinationen mit einander und anderen Elementen der Cascinaschlacht, eingebettet in Landschaften und staffiert mit Wäldern und Architektur.[^15]
 
-```markdown
-Syntax highlighted code block
+#### Notiz an mich selbst:
 
-# Header 1
-## Header 2
-### Header 3
+Außerdem beantworten:
+- Für was für weitere Forschung kann eine solche Darstellung verwendet werden?
+- Warum wurde genau dieses Gemälde so oft kopiert? (Nachahmung, auch in Konkurrenz)
 
-- Bulleted
-- List
+##### Netzwerk Figuren
+- Wie oft und in welcher Verbindung wurden die Figuren zitiert / kopiert? (Sind die häufiger kopierten Figuren dieselben die vorher skizziert wurden?)
+Hier repräsentieren die Nodes die Kopien  und die Figuren der Cascina-Schlacht. Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an der Modularity Class, also den errechneten nächsten Nachbarn, wodurch sich kleinere Netzwerke der am häufigsten zusammen vorkommenden Figuren bilden.
 
-1. Numbered
-2. List
+##### Netzwerk Stammbaum
+- Wie ist das Verhältnis der Bilder zueinander? → Stammbaum der Kopien
+In diesem Netzwerk repräsentieren die Nodes verschiedene Bilder, in denen Figuren aus Michelangelo Buonarottis „Schlacht bei Cascina“ rezipiert wurden.  Die Größe der Nodes ergibt sich aus der Betweenness Centrality (der Relevanz des Nodes für das Zusammenhalten des Netzwerkes), die Farbe orientiert sich an den Künstlern. Werke desselben Künstlers haben also dieselbe Farbe.
+(For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+You can use the [editor on GitHub](https://github.com/ToniMassenberg/Bildzitate-Michelangelo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.)
 
-**Bold** and _Italic_ and `Code` text
+   [^1]: Vgl. Gould, Cecil: Michelangelo. Battle of Cascina. Newcastle upon Tyne 1966, S.6.
+   [^2]: Vgl. Gould 1966, S. 6, sowie Vasari, Giorgio: Das Leben des Michelangelo. Neu übersetzt und kommentiert. Berlin 2009, S. 60.
+   [^3]: Schütze, Sebastian: Nacktheit in großen Tableaus. In: Ausst.-Kat., Der Göttliche. Hommage an Michelangelo. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, 2015, S.152.
+   [^4]: Vgl. Gould 1966, S. 6.
+   [^5]: Vgl. zum ganzen Abschnitt Gould 1966, S.6.
+   [^6]: Vgl. zum ganzen Abschnitt Zöllner, Frank: Rubens reworks Leonardo: ‘The Fight for the Standard’. In: Achademia Leonardi Vinci, 4. Florenz 1991, S. 178f. http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2016/4179 (07.03.17).
+   [^7]: Vgl. zum ganzen Abschnitt: Gould 1966, S.10f.
+   [^8]: Vgl. Gould 1966, S.7.
+   [^9]: Schütze, Sebastian: Nacktheit in großen Tableaus. In: Ausst.-Kat., Der Göttliche. Hommage an Michelangelo. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, 2015, S.152.
+   [^10]: Vgl. Satzinger, Georg: Marcantonio Raimondi (Text 74). In: Ausst.-Kat., Der Göttliche. Hommage an Michelangelo. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, 2015, S.155.
+   [^11]: Vgl. Satzinger 2015, S.18.
+   [^12]: Satzinger 2015, S.154.
+   [^13]: Vgl. Wilde, Johannes: Michelangelo. Six lectures by Johannes Wilde. Oxford 1978, S. 44.
+   [^14]: Vgl. Vasari 2009, S. 62.
+   [^15]: Vgl. zum ganzen Abschnitt Satzinger, Georg: Marcantonio Raimondi (Texte 75 und 77) sowie Agostino Veneziano (Texte 76 und 78), beide in Ausst.-Kat., Der Göttliche. Hommage an Michelangelo. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, 2015, S.156f.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ToniMassenberg/Bildzitate-Michelangelo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
