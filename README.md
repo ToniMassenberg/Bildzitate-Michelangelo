@@ -21,6 +21,7 @@ Der vorliegende Text wird zunächst die „Cascinaschlacht“ und ihre Entstehun
 ## 2 Die "Cascinaschlacht"
 
 Die toskanische Stadt Cascina gehörte im Mittelalter und in der Frühen Neuzeit zur Republik Pisa und liegt am Fluss Arno, der in Michelangelos Historie im Vordergrund dargestellt ist. Von der Schlacht bei Cascina von 1364 ist legendenhaft überliefert, die florentinischen Soldaten hätten statt wachsam einen Angriff zu erwarten im Arno gebadet, seien aber von einem Angriff der Armee Pisas überrascht worden. In aller Eile mussten die Badenden zu den Waffen stürzen und sich verteidigen. Die Schlacht endete mit einem florentinischen Sieg. Dieser Moment der Überraschung ist auf dem Karton dargestellt, den Michelangelo Buonarotti 1504-1505 in Florenz anfertigte. Das Fresko war für den Sala dei Cinquecento im Palazzo Vecchio vorgesehen, wurde aber nie ausgeführt. Der Karton wurde vermutlich 1515 zerstört und liegt daher nur in Kopien vor.[^1] Die Grundlage der folgenden Beschreibung bietet eine Kopie (angefertigt ca. 1541) von Bastiano (Aristotile) da Sangallo (1481-1551), die heute in Holkham Hall in Norfolk aufbewahrt wird. Es ist ein Ölbild von 77 x 130 cm Größe und basiert auf Zeichnungen, die Sangallo nach dem Original angefertigt hatte. Die Maße des Originals sind nicht überliefert.
+
 Sangallos Kopie von Michelangelos Karton der Cascinaschlacht zeigt eine Gruppe von 20 Männern verschiedenen Alters. Die Komposition ist asymmetrisch und keine der Figuren steht im Mittelpunkt oder ist besonders betont. Die Männer sind grob in drei Reihen aufgeteilt: liegende, sitzende und aus dem Wasser steigende Männer vorne, sich Bückende oder Gehende in der Mitte und stehenden Figuren hinten, doch wird diese Ordnung durch ihre Bewegungen an mehreren Stellen aufgelöst. Sie sind in bewegten Posen festgehalten, die Körper sind angespannt, drehen und wenden sich, einzelne Kleidungsstücke und Haare flattern im Wind. Nach links wird die Gruppe von einem aus dem Wasser kletternden Mann, der sich nach links wendet, begrenzt; am rechten Rand wenden sich die Figuren nach rechts, auf imaginäre weitere Szenen verweisend. Es ist kein Hintergrund ausgeführt.
 Um alle Figuren der Cascinaschlacht eindeutig benennen zu können, wurden ihnen im vorliegenden Projekt IDs in Form von Buchstaben zugeordnet. Im Folgenden werden sie anhand dieser IDs benannt.
 
@@ -34,7 +35,8 @@ Beide Künstler beendeten die Kartons für das geplante Fresko, aber ausgeführt
 
 ### 3.1 Aemulatio als Prinzip der Frühen Neuzeit
 
-Die Rezeption vorausgegangener Werke war nicht nur lange ein grundlegender Pfeiler der Ausbildung von Künstlern,[^6] sondern auch ein wesentlicher Bestandteil der geschaffenen Kunst und eine Antriebskraft für künstlerischen Fortschritt.[^7] Dieser Wettbewerbscharakter der Rezeption äußert sich im Begriff der aemulatio (lat. Wetteifer). Zunächst steht die imitatio,[^8] also die Nachahmung einer anerkannten Autorität, an deren Werk ein Künstler sich messen will.[^9] Erst die Aemulatio führt dazu etwas Besseres schaffen zu wollen – das Bessere ist dabei dasjenige, das „Schöner und Vollkommener“[^10] ist als sein Vorbild. Ursprünglich mag das ein Wettstreit mit der Natur gewesen sein, doch entwickelte sich im 15. und 16. Jahrhundert eine Spannung zwischen möglichst genauer Naturnachahmung und ihrer Idealisierung und Übertreffung heraus.[^11] So tritt „jedes neue Kunstwerk nicht nur in die Nachfolge älterer Vorbilder, sondern auch in Wettstreit mit ihnen“.[^12] Michelangelo war spätestens durch Vasaris Vite 1550 zum Höhepunkt der nachzuahmenden Vorbilder geworden, was eine der Grundlagen der Herausbildung des Manierismus des 16. Jahrhunderts war.[^13] Dabei waren seine Werke in der Wahrnehmung seiner Zeitgenossen nicht nur so schön wie die Natur, sondern – wie in den idealisierten Körpern der „Cascinaschlacht“ – übertrafen diese bereits. [^14] Im Fall der „Cascinaschlacht“ und der „Anghiarischlacht“ bestand die Künstlerkonkurrenz dabei nicht nur in der Schönheit der fertigen Bilder, sondern wurde auch in der Entstehungssituation als direkter Wettbewerb inszeniert: Ziel ist eine „Qualitätssteigerung durch mehr oder weniger institutionalisierten Wettbewerb“. [^15]
+Die Rezeption vorausgegangener Werke war nicht nur lange ein grundlegender Pfeiler der Ausbildung von Künstlern,[^6] sondern auch ein wesentlicher Bestandteil der geschaffenen Kunst und eine Antriebskraft für künstlerischen Fortschritt.[^7] Dieser Wettbewerbscharakter der Rezeption äußert sich im Begriff der aemulatio (lat. Wetteifer). Zunächst steht die imitatio,[^8] also die Nachahmung einer anerkannten Autorität, an deren Werk ein Künstler sich messen will.[^9] Erst die Aemulatio führt dazu etwas Besseres schaffen zu wollen – das Bessere ist dabei dasjenige, das „Schöner und Vollkommener“[^10] ist als sein Vorbild. Ursprünglich mag das ein Wettstreit mit der Natur gewesen sein, doch entwickelte sich im 15. und 16. Jahrhundert eine Spannung zwischen möglichst genauer Naturnachahmung und ihrer Idealisierung und Übertreffung heraus.[^11] So tritt „jedes neue Kunstwerk nicht nur in die Nachfolge älterer Vorbilder, sondern auch in Wettstreit mit ihnen“.[^12]
+Michelangelo war spätestens durch Vasaris Vite 1550 zum Höhepunkt der nachzuahmenden Vorbilder geworden, was eine der Grundlagen der Herausbildung des Manierismus des 16. Jahrhunderts war.[^13] Dabei waren seine Werke in der Wahrnehmung seiner Zeitgenossen nicht nur so schön wie die Natur, sondern – wie in den idealisierten Körpern der „Cascinaschlacht“ – übertrafen diese bereits. [^14] Im Fall der „Cascinaschlacht“ und der „Anghiarischlacht“ bestand die Künstlerkonkurrenz dabei nicht nur in der Schönheit der fertigen Bilder, sondern wurde auch in der Entstehungssituation als direkter Wettbewerb inszeniert: Ziel ist eine „Qualitätssteigerung durch mehr oder weniger institutionalisierten Wettbewerb“. [^15]
 
 ![Netzwerk des Kopien-Stammbaums.](https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-My-M75bwIcH0WJh4t6q?alt=media&token=49d2b2f3-0f2a-4ad9-ad8d-b31de9b13f4d)
 _Abb.2: Ein Netzwerk einiger Cascinaschlacht-Rezeptionen. In interaktiver Form einsehbar unter https://tonimassenberg.github.io/Rezeption-Michelangelo/Stammbaum/._
@@ -53,7 +55,9 @@ _Abb.3: Einer von mehreren Kupferstichen auf Basis der „Cascinaschlacht“, di
 Auch Sangallo kopierte das Original in Zeichnungen, auf denen seine berühmte Kopie von 1541 basiert. Sangallo war dabei ein Teil der sehr kleinen Schülerschaft Michelangelos,[^20] womit sie unter den vielen Rezipienten der „Cascinaschlacht“ ein Beispiel der „kleinsten aemulativen Einheiten, die Meister-Schüler-Verhältnisse“[^21] darstellen.
 
 Es spielt bei der Rezeption von Bildteilen auch eine Rolle, dass Künstler erst einmal im Feld der Imitatio von dem Vorbild und den Erfahrungen anderer Künstler profitieren, indem sie aus ihren Bildern lernen; gerade die „Cascinaschlacht“ bietet genug „Neuerungen in der affektbetonten Darstellung bewegter Akte“,[^22] um die Nutzung als Vorlage für eine Figur in einem neuen Bild zu rechtfertigen. Gewissermaßen bietet die große Auswahl körperbetonter Posen einen Katalog von Vorlagen, durch die auch andere Künstler von Michelangelos anatomischen Studien profitieren konnten.[^23] Mancher Auffassung nach war auch Michelangelos Art, in Zeichnung und Gemälden sein Verständnis der Figuren aus der Bildhauerei einfließen zu lassen, die eine besondere Faszination einer tieferen Körperlichkeit und Plastizität ausmacht und weitreichende Konsequenzen für die italienische Kunst des 16. Jahrhunderts hatte.[^24] 
+
 Darüber hinaus eignet sich die „Cascinaschlacht“ so auffallend gut zum Kopieren, weil sich auch einzelne Figuren separat darstellen lassen. Schaut man sich in den Abbildungen die einzelnen Figuren an, merkt man schnell, dass sie nur wenig miteinander interagieren. Kaum zwei von ihnen haben Augenkontakt, berühren oder unterhalten sich. Außerdem sind einige der Figuren so im Bild platziert, dass keine Stelle ihres Körpers von etwas Anderem als sich selbst oder ihrer Kleidung verdeckt wird. Diese Figuren können völlig separat von den anderen betrachtet werden, da sie vollständig dargestellt sind und ohne ihren Kontext betrachtet werden können. Dazu gehören die Figuren, die im vorliegenden Projekt die IDs B, O und R tragen und die meist rezipierten Figuren sind (siehe unten). Figuren, die größtenteils von anderen Figuren verdeckt werden und daher nicht in sinnvoller Weise ohne diese dargestellt werden können, wie G und U, werden dagegen nur rezipiert, wenn das vollständige Ensemble kopiert wird. Die Möglichkeit, die verschiedenen Posen einzeln oder in ausgewählten kleineren Gruppen zu rezipieren, scheint also eine Rolle in der Beliebtheit der „Cascinaschlacht“ als Vorlage gespielt haben.
+
 Ein so hoch gelobtes, berühmtes Werk bietet aber auch genug Wiedererkennungspotential, um eine Figur in einen völlig neuen Kontext einbetten zu können und somit gegebenenfalls subversiv mit den Erwartungen zu spielen, indem der Kanon unterlaufen wird.[^25] Marcantonio Raimondi fertigte mehrere Sangallos Bild ähnliche Kopien einzelner Figuren an, schuf aber auch einen Druck, in dem die Haltung der Figur B gespiegelt, also von vorn gezeigt, und von einer weiblichen Figur eingenommen wurde. Jan van Amstel malte 1535, vermutlich auf die Druckgraphik Marcantonios Bezug nehmend,[^26] dieselbe Figur ebenfalls um 180 Grad gedreht, sowohl im bildlichen Sinn (von vorne) als auch inhaltlich, da die Figur hier statt eines bald siegreichen florentinischen Kriegers und aemulativen Beispiels der Schönheit einen sündigen Pilger darstellt.[^27] So wird die Technik der Rezeption genutzt um Erwartungen zu brechen und dem neu entstandenen Bild eine Bedeutungsebene hinzuzufügen.
 
 ![Jan van Amstel, Liebespaar im Kornfeld.](https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-MtYnMqbV476dJdzsiIx?alt=media&token=a98bf455-b759-4576-8c99-7ec6b7777b42 )
@@ -108,6 +112,7 @@ Zentral ist bei diesem Graphen die Frage danach, wie oft und in welchen Kombinat
 | X  | 3  |
 
 Eine These bezüglich der Beliebtheit von Figuren für die Rezeption wurde bereits aufgestellt: Wichtig für die Auswahl ist, dass die Figur nicht verdeckt wird und so außerhalb des Kontextes der anderen Figuren dargestellt werden kann, ohne dass Körperteile ergänzt werden müssen. Dies lässt sich durch die vorliegende Forschung bestätigen: Die am häufigsten rezipierten Figuren sind  B (unter den 27 Kopien 12 mal vertreten), R (ebenfalls 12 mal rezipiert) und O (11), die an keiner Stelle von anderen Figuren verdeckt werden und dadurch auch ohne den Kontext anderer Figuren darstellbar sind. Auch auf die mit je 9 Kopien folgenden Figuren  L, M und S trifft dies zu. Ebenfalls 9 mal rezipiert wurde J, deren Beine zwar verdeckt werden, die aber die bewegteste Figur im Bild und deren Oberkörper ebenfalls vollständig zu sehen ist. Am seltensten kopiert (ausschließlich in den vier Abbildungen, die die vollständige Gruppe rezipieren) wurden U und T, von denen je nur ein Körperteil sichtbar ist, und A, die an mehreren Stellen verdeckt wird. Diese große Auswahl an klar erkennbaren Figuren erklärt auch die allgemeine Beliebtheit der „Cascinaschlacht“ für Rezeptionen.
+
 Beliebte Kombinationen von Figuren lassen sich anhand der Gruppen bzw. der Modularity Class erkennen, in der Visualisierung also an der Farbe. Nicht alle Gruppen sind dabei besondere Figurenkonstellationen – die selten rezipierten Figuren bilden Gruppen allein (Gruppe 9/U und Gruppe 12/G) oder werden zusammengefasst, obwohl sie nicht zusammen rezipiert wurden (z.B. Gruppe 11), weil sie jeweils mit den Abbildungen verbunden sind, die alle oder die meisten Figuren rezipieren. Gruppe 3 legt als Kriterium die räumliche Nähe der sich überschneidenden Figuren im Bild nahe, wodurch es sich anbietet die Figuren zusammen abzubilden, hier die bewegte Figur J, die in der Gruppe mit R und S am meisten Sinn ergibt, was die Beliebtheit dieser drei Figuren erklärt.
 Ein anderes Beispiel ist die Gruppe 4, in der Abbildungen versammelt sind, die die nicht abgeschnittenen Figuren in verschiedenen Konstellationen zusammenstellen und somit dem Rezipienten ein gewisses Maß an Freiheit erlauben, wobei dennoch hauptsächlich oder ausschließlich Michelangelos Figuren verwendet werden. Dies ist eventuell mit dem Zusammenspiel von der Imitatio der Figuren und einer Aemulatio in Form der versuchten Übertreffung in der Auswahl der Figuren und der Komposition zu erklären.
 
@@ -120,6 +125,38 @@ Leider hat sich herausgestellt, dass bei einem so begrenzten Datensatz – der S
 
 Im vorliegenden Projekt wurden die gegenwärtig auffindbaren Bilder, die Michelangelos „Cascinaschlacht“ rezipieren, in zwei Netzwerkgraphen sortiert, wodurch die Bildersammlung übersichtlicher und mögliche Antworten auf mehrere Forschungsfragen visuell sichtbar wurden. So wurde festgestellt, dass  für die Beliebtheit der „Cascinaschlacht“ als Vorlage neben der Entstehungssituation im Wettbewerbskontext und der Ausstellungssituation, die den Karton, so lange er bestand, zugänglicher machte als andere großformatige Bilder Michelangelos, vor allem die vielen einzeln kopierbaren Figuren ausschlaggebend waren. Würden die vorliegenden Daten durch genauere Forschung zu jeder einzelnen Abbildung ergänzt, könnte die Technik der Visualisierung wie hier präsentiert auch zum Nachvollziehen der Dynamiken zwischen den Kopien verwendet werden. So könnte man sich fragen ob es Fälle gibt in denen ein Werk von mehreren Abbildungen beeinflusst wurde, was im Netzwerkgraphen klar sichtbar wäre. Die Netzwerkforschung als Technik zur Erforschung aemulativer Zusammenhänge hat sich somit bewährt.
 
+
+## 6 Literaturverzeichnis
+arthistoricum.net, Michelangelos Schlacht bei Cascina, zugänglich über: https://www.arthistoricum.net/themen/portale/renaissance/lektion-xi-florenz-1500-1508-leonardo-michelangelo-und-raffael/4-michelangelos-schlacht-von-cascina (letzter Zugriff: 11.03.22).
+
+Brinton, Christoper G., Chiang, Mung, The Power of Networks. Six Principles That Connect Our Lives, Princeton 2017.
+
+Gould, Cecil, Michelangelo. Battle of Cascina, Newcastle upon Tyne 1966.
+
+Glinka, Katrin, Dörk, Marian, Zwischen Repräsentation und Rezeption. Visualisierung als Facette von Analyse und Argumentation in der Kunstgeschichte, in: Kuroczyński, Piotr/Bell, Peter/Dieckmann, Lisa (Hrsg.), Computing Art Reader. Einführung in die digitale Kunstgeschichte, Heidelberg 2018, S. 234-250.
+
+Jonietz, Fabian, Die Scuole delle arti als Orte der aemulatio. Der Fall der Cappella Brancacci,  in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 770-811.
+
+Jonietz, Fabian, Labor omnia vincit? Fragmente einer kunsttheoretischen Kategorie, in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 573-681.
+
+Lemercier, Claire, Formal network methods in history: why and how? In: Fertig, Georg (Hrsg.): Social Networks, Political Institutions, and Rural Societies, o.O. 2015, S. 281-310, zugänglich über: https://halshs.archives-ouvertes.fr/halshs-00521527v2 (letzter Zugriff 13.03.22). 
+
+Müller, Jan Dirk, Pfisterer, Ulrich, Vorrede, in:  Dies./Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 1-32.
+
+Müller, Jürgen, Die Welt als Bordell. Überlegungen zur Genremalerei Jan van Amstels, in: Münch, Birgit Ulrike, Müller, Jürgen (Hrsg.): Peiraikos' Erben: die Genese der Genremalerei bis 1550 (=Trierer Beiträge zu den historischen Kulturwissenschaften, Bd. 14), Wiesbaden 2015, S. 15-52.
+
+Satzinger, Georg, Warum Michelangelo? In: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 14-33.
+
+Satzinger, Georg, Marcantonio Raimondi (Texte 74, 75 und 77), in: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 155-156.
+
+Satzinger, Georg, Luigi Schiavonetti (Text 73), in: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 157.
+
+Schütze, Sebastian: Nacktheit in großen Tableaus, in: Ders./Satzinger, Georg (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015, S. 152.
+
+Vasari, Giorgio, Das Leben des Michelangelo. Neu übersetzt und kommentiert, Berlin 2009.
+
+
+## 7 Fußnoten
 
    [^1]: Vgl. zum ganzen Abschnitt Gould, Cecil, Michelangelo. Battle of Cascina. Newcastle upon Tyne 1966, S.6, sowie Satzinger, Georg, Warum Michelangelo? In: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015, S. 14-33, S. 17f.
    [^2]: Vgl. Gould 1966, S. 6, sowie Vasari, Giorgio: Das Leben des Michelangelo. Neu übersetzt und kommentiert. Berlin 2009, S. 60.
@@ -156,31 +193,3 @@ Im vorliegenden Projekt wurden die gegenwärtig auffindbaren Bilder, die Michela
    [^33]: Für Überlegungen zu möglichen weiteren geplanten Figuren siehe Gould 1966, S. 5f.
 
 
-## 6 Literaturverzeichnis
-arthistoricum.net, Michelangelos Schlacht bei Cascina, zugänglich über: https://www.arthistoricum.net/themen/portale/renaissance/lektion-xi-florenz-1500-1508-leonardo-michelangelo-und-raffael/4-michelangelos-schlacht-von-cascina (letzter Zugriff: 11.03.22).
-
-Brinton, Christoper G., Chiang, Mung, The Power of Networks. Six Principles That Connect Our Lives, Princeton 2017.
-
-Gould, Cecil, Michelangelo. Battle of Cascina, Newcastle upon Tyne 1966.
-
-Glinka, Katrin, Dörk, Marian, Zwischen Repräsentation und Rezeption. Visualisierung als Facette von Analyse und Argumentation in der Kunstgeschichte, in: Kuroczyński, Piotr/Bell, Peter/Dieckmann, Lisa (Hrsg.), Computing Art Reader. Einführung in die digitale Kunstgeschichte, Heidelberg 2018, S. 234-250.
-
-Jonietz, Fabian, Die Scuole delle arti als Orte der aemulatio. Der Fall der Cappella Brancacci,  in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 770-811.
-
-Jonietz, Fabian, Labor omnia vincit? Fragmente einer kunsttheoretischen Kategorie, in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 573-681.
-
-Lemercier, Claire, Formal network methods in history: why and how? In: Fertig, Georg (Hrsg.): Social Networks, Political Institutions, and Rural Societies, o.O. 2015, S. 281-310, zugänglich über: https://halshs.archives-ouvertes.fr/halshs-00521527v2 (letzter Zugriff 13.03.22). 
-
-Müller, Jan Dirk, Pfisterer, Ulrich, Vorrede, in:  Dies./Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 1-32.
-
-Müller, Jürgen, Die Welt als Bordell. Überlegungen zur Genremalerei Jan van Amstels, in: Münch, Birgit Ulrike, Müller, Jürgen (Hrsg.): Peiraikos' Erben: die Genese der Genremalerei bis 1550 (=Trierer Beiträge zu den historischen Kulturwissenschaften, Bd. 14), Wiesbaden 2015, S. 15-52.
-
-Satzinger, Georg, Warum Michelangelo? In: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 14-33.
-
-Satzinger, Georg, Marcantonio Raimondi (Texte 74, 75 und 77), in: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 155-156.
-
-Satzinger, Georg, Luigi Schiavonetti (Text 73), in: Ders./Schütze, Sebastian (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015,  S. 157.
-
-Schütze, Sebastian: Nacktheit in großen Tableaus, in: Ders./Satzinger, Georg (Hrsg.), Der Göttliche. Hommage an Michelangelo (Ausst.-Kat. Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn 2015), München 2015, S. 152.
-
-Vasari, Giorgio, Das Leben des Michelangelo. Neu übersetzt und kommentiert, Berlin 2009.
