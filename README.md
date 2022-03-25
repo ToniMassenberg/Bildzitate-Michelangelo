@@ -1,4 +1,5 @@
-# Michelangelo-Rezeption - Ein Netzwerkprojekt am Beispiel der Cascinaschlacht
+# Michelangelo-Rezeption
+# Ein Netzwerkprojekt am Beispiel der Cascinaschlacht
 
 ## Die Netzwerke
 Ein Netzwerk der Figuren der Cascinaschlacht und der Bilder, in denen sie vorkommen:
@@ -76,6 +77,7 @@ _Abb.5: Die einzelnen Figuren, ausgeschnitten aus Sangallos Kopie._
 Durch die Darstellung als Force Atlas erkennt man ein dichtes Netz der Kanten im Bereich der Bilder, die den vollständigen Karton oder große Teile daraus rezipieren. Um diesen Kern gruppieren sich die Figuren-Nodes, weiter außen finden sich die Werke, die nur wenige Figuren darstellen. Die Größe der Nodes ergibt sich aus der Betweenness Centrality, der Relevanz des Nodes für das Zusammenhalten des Netzwerkes.[^32]  Dadurch werden die Knoten der Figuren, die am häufigsten rezipiert wurden, größer dargestellt. Die Farben der Nodes und Edges orientieren sich an der Modularity Class, also den errechneten nächsten Nachbarn, wodurch sich kleinere Netzwerke der am häufigsten zusammen vorkommenden Figuren und der daher im Bezug auf ihre Figurenkonstellationen ähnlichen Werke bilden. In dieser Visualisierung bilden die Nachbarschaften zwölf Gruppen, die in einem Drop-Down Menü sichtbar sind; wird eine Gruppe oder ein Node darin ausgewählt, werden alle nicht zu der ausgewählten Nachbarschaft gehörenden Nodes ausgeblendet.
 
 ![Der Figurengraph.](https://firebasestorage.googleapis.com/v0/b/aries-a0120.appspot.com/o/-MtYnHWt73vQzDabD1K6%2Fimages%2F-Mz1Qrc1qPl-VUb_jKbz?alt=media&token=3a209a7f-832f-4573-8ff9-1982ce26d805)
+
 _Abb. 6: Ein Netzwerk der rezipierten Cascina-Figuren. In interaktiver Form einsehbar unter https://tonimassenberg.github.io/Rezeption-Michelangelo/Figuren/._
 
 Zentral ist bei diesem Graphen die Frage danach, wie oft und in welchen Kombinationen die Figuren zitiert oder kopiert wurden und welche Eigenschaften die häufiger rezipierten Figuren gemeinsam haben. Dabei wurde auch geprüft, ob ein Zusammenhang zwischen der Häufigkeit der Rezeptionen einzelner Figuren und den Skizzen Michelangelos besteht, was nahegelegt hätte dass kompliziertere Darstellungen, für die mehr Vorbereitung nötig war, auch mehr direkte Nachfolger herausfordern. Letzeres kann verneint werden, da auf den erhaltenen Vorzeichnungen fast ausschließlich Figuren dargestellt sind, die nicht oder nicht unmittelbar im finalen Karton (oder zumindest in Sangallos Kopie) verwendet wurden, was im Graphen als Gruppe 1 erkennbar wird. Möglicherweise waren diese Figuren verworfene Ideen oder Vorzeichnungen für eventuell geplante weitere Figurengruppen im Fresko.[^33] 
@@ -126,31 +128,31 @@ Im vorliegenden Projekt wurden die gegenwärtig auffindbaren Bilder, die Michela
    [^5]: Vgl. zum ganzen Abschnitt: Gould 1966, S.10f.
    [^6]: Vgl. Satzinger, Marcantonio Raimondi 2015, S. 115.
    [^7]: Vgl. Müller, Jan Dirk, Pfisterer, Ulrich, Vorrede, in:  Dies./Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 22.
-    [^8]: Vgl. ebd., S. 7.
-    [^9]: Vgl. ebd., S. 6.
-    [^10]: Ebd., S. 2.
-    [^11]: Vgl. ebd., S. 10f.
-    [^12]: Ebd., S. 1.
-    [^13]: Vgl. ebd., S. 4.
+   [^8]: Vgl. ebd., S. 7.
+   [^9]: Vgl. ebd., S. 6.
+   [^10]: Ebd., S. 2.
+   [^11]: Vgl. ebd., S. 10f.
+   [^12]: Ebd., S. 1.
+   [^13]: Vgl. ebd., S. 4.
    [^14]: Vgl. Jonietz, Fabian, Labor omnia vincit? Fragmente einer kunsttheoretischen Kategorie, in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 573-681, S. 778.
    [^15]: Müller / Pfisterer 2011, S. 3.
    [^16]: Vasari 2009, S. 61f.
-  [^17]: Vgl. Jonietz, Fabian, Die Scuole delle arti als Orte der aemulatio: Der Fall der Cappella Brancacci,  in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 770-811, S. 775.
+   [^17]: Vgl. Jonietz, Fabian, Die Scuole delle arti als Orte der aemulatio: Der Fall der Cappella Brancacci,  in:  Müller, Jan Dirk/Pfisterer, Ulrich/Bleuler, Anna Kathrin/Jonietz, Fabian (Hrsg.), Aemulatio. Kulturen des Wettstreits in Text und Bild (1450-1620) (=Pluralisierung & Autorität, Bd. 27), Berlin/Boston 2011, S. 770-811, S. 775.
    [^18]: Vgl. Satzinger, Marcantonio Raimondi 2015, S.155.
    [^19]: Müller / Pfisterer 2011, S. 17.
    [^20]: Vgl. Jonietz, Die Scuole delle arti 2011, S. 771.
    [^21]: Müller / Pfisterer 2011, S. 21.
    [^22]: Satzinger, Marcantonio Raimondi 2015, S. 154.
    [^23]:  Vgl. Satzinger, Warum Michelangelo? 2015, S. 17.
-  [^24]: Vgl. Wilde, Johannes: Michelangelo. Six lectures by Johannes Wilde. Oxford 1978, S. 44, sowie arthistoricum.net, Michelangelos Schlacht bei Cascina, https://www.arthistoricum.net/themen/portale/renaissance/lektion-xi-florenz-1500-1508-leonardo-michelangelo-und-raffael/4-michelangelos-schlacht-von-cascina (letzter Zugriff: 11.03.22).
+   [^24]: Vgl. Wilde, Johannes: Michelangelo. Six lectures by Johannes Wilde. Oxford 1978, S. 44, sowie arthistoricum.net, Michelangelos Schlacht bei Cascina, https://www.arthistoricum.net/themen/portale/renaissance/lektion-xi-florenz-1500-1508-leonardo-michelangelo-und-raffael/4-michelangelos-schlacht-von-cascina (letzter Zugriff: 11.03.22).
    [^25]:   Müller / Pfisterer 2011, S. 6.
    [^26]:   Vgl. Müller, Jürgen, Die Welt als Bordell. Überlegungen zur Genremalerei Jan van Amstels, in: Münch, Birgit Ulrike, Müller, Jürgen (Hrsg.): Peiraikos' Erben: die Genese der Genremalerei bis 1550 (=Trierer Beiträge zu den historischen Kulturwissenschaften, Bd. 14), Wiesbaden 2015, S. 40f.
    [^27]:  Ebd., S. 39.
    [^28]: Müller / Pfisterer 2011, S. 12f.
    [^29]:  Vgl. Glinka, Katrin, Dörk, Marian, Zwischen Repräsentation und Rezeption. Visualisierung als Facette von Analyse und Argumentation in der Kunstgeschichte, in: Kuroczyński, Piotr/Bell, Peter/Dieckmann, Lisa (Hrsg.), Computing Art Reader. Einführung in die digitale Kunstgeschichte, Heidelberg 2018, S. 234-250, S. 237f.
-  [^30]:  Vgl. Lemercier, Claire, Formal network methods in history: why and how? In: Fertig, Georg (Hrsg.): Social Networks, Political Institutions, and Rural Societies, o.O. 2015, S. 281-310, S. 287.
+   [^30]:  Vgl. Lemercier, Claire, Formal network methods in history: why and how? In: Fertig, Georg (Hrsg.): Social Networks, Political Institutions, and Rural Societies, o.O. 2015, S. 281-310, S. 287.
    [^31]:  Vgl. ebd., S. 286.
-  [^32]: Für eine ausführliche Erklärung der Relevanz von Betweenness vgl. Brinton, Christoper G., Chiang, Mung, The Power of Networks. Six Principles That Connect Our Lives, Princeton 2017, S. 198.
+   [^32]: Für eine ausführliche Erklärung der Relevanz von Betweenness vgl. Brinton, Christoper G., Chiang, Mung, The Power of Networks. Six Principles That Connect Our Lives, Princeton 2017, S. 198.
    [^33]: Für Überlegungen zu möglichen weiteren geplanten Figuren siehe Gould 1966, S. 5f.
 
 
